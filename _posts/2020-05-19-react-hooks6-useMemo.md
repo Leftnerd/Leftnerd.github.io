@@ -3,7 +3,7 @@ layout: post
 title:  "React Hooks 系列之6 useMemo"
 categories: JavaScript
 tags: React hooks
-author: HyG
+author: Leftnerd
 ---
 
 * content

@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 10 Shadow 投影"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -159,13 +159,13 @@ const guiObj = {
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01o4S31T1PbT34Yp8y5_!!6000000001859-2-tps-1134-438.png)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/16-shadows/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/16-shadows/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01fTsl611huqtZPmhaw_!!6000000004338-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/16-shadows)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/16-shadows)
 
 ## 开启投影
 
@@ -197,13 +197,13 @@ directionalLight.castShadow = true
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN012UdgOw1SohKwm3yda_!!6000000002294-2-tps-1135-437.png)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/16-shadows/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/16-shadows/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01fTsl611huqtZPmhaw_!!6000000004338-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/16-shadows)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/16-shadows)
 
 ## Shadow map 的优化
 
@@ -372,13 +372,13 @@ pointLight.shadow.camera.far = 5
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01lqxrjJ1qKW0ztioCK_!!6000000005477-1-tps-480-240.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/16-shadows/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/16-shadows/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01fTsl611huqtZPmhaw_!!6000000004338-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/16-shadows)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/16-shadows)
 
 # 烘焙投影(Baking Shadow)
 
@@ -406,13 +406,13 @@ const plane = new THREE.Mesh(new THREE.PlaneGeometry(5, 5), new THREE.MeshBasicM
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01V4w91v1gQnHYqrawN_!!6000000004137-2-tps-1132-617.png)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/16-shadows-baking/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/16-shadows-baking/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01I475cZ1idHJV93We0_!!6000000004435-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/16-shadows-baking)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/16-shadows-baking)
 
 # 自行绘制模拟投影
 
@@ -480,13 +480,13 @@ const tick = () => {
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01Jaa9yA1Np5b6mSjCb_!!6000000001618-1-tps-500-277.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/16-shadows-baking-simulation/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/16-shadows-baking-simulation/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01lXa7ZJ1ks3JwuWmiW_!!6000000004738-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/16-shadows-baking-simulation)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/16-shadows-baking-simulation)
 
 # 小结
 

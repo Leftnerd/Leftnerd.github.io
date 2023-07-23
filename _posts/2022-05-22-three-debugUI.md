@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 5 debug UI"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -75,9 +75,9 @@ gui.add(debugObj, 'spin') // function
 
 完整代码和 demo 如下
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/10-debugUI/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/10-debugUI/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/10-debugUI)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/10-debugUI)
 
 # 小结
 

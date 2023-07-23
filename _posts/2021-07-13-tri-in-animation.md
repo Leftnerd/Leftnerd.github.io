@@ -3,7 +3,7 @@ layout: post
 title:  "动画中的三角学"
 categories: JavaScript
 tags: 动画 Canvas 三角
-author: HyG
+author: Leftnerd
 mathjax: true
 ---
 
@@ -266,9 +266,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01EsRvtO1rWFi9law2I_!!6000000005638-1-tps-787-358.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/01-rotate-to-mouse/](https://gaohaoyang.github.io/canvas-practice/01-rotate-to-mouse/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/01-rotate-to-mouse/](https://Leftnerd.github.io/canvas-practice/01-rotate-to-mouse/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/01-rotate-to-mouse/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/01-rotate-to-mouse/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/01-rotate-to-mouse/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/01-rotate-to-mouse/index.ts)
 
 # 波
 
@@ -380,9 +380,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01gRXxu223bXfw9Gxeo_!!6000000007274-1-tps-787-358.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/02-left-right-motion/](https://gaohaoyang.github.io/canvas-practice/02-left-right-motion/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/02-left-right-motion/](https://Leftnerd.github.io/canvas-practice/02-left-right-motion/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/02-left-right-motion/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/02-left-right-motion/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/02-left-right-motion/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/02-left-right-motion/index.ts)
 
 ## 高刷屏下保持速度一致
 
@@ -425,9 +425,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01GgzTri1vtOBIMQ2NK_!!6000000006230-1-tps-787-358.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/03-left-right-motion-speed/](https://gaohaoyang.github.io/canvas-practice/03-left-right-motion-speed/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/03-left-right-motion-speed/](https://Leftnerd.github.io/canvas-practice/03-left-right-motion-speed/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/03-left-right-motion-speed/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/03-left-right-motion-speed/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/03-left-right-motion-speed/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/03-left-right-motion-speed/index.ts)
 
 ## 正弦曲线轨迹
 
@@ -470,9 +470,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01n8qnJ81bj2vGIkCMO_!!6000000003500-1-tps-787-358.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/04-sin-track/](https://gaohaoyang.github.io/canvas-practice/04-sin-track/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/04-sin-track/](https://Leftnerd.github.io/canvas-practice/04-sin-track/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/04-sin-track/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/04-sin-track/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/04-sin-track/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/04-sin-track/index.ts)
 
 # 圆与椭圆
 
@@ -537,9 +537,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01Hu7Qfa1EXNfevsLsP_!!6000000000361-1-tps-780-361.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/05-circle/](https://gaohaoyang.github.io/canvas-practice/05-circle/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/05-circle/](https://Leftnerd.github.io/canvas-practice/05-circle/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/05-circle/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/05-circle/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/05-circle/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/05-circle/index.ts)
 
 ## 椭圆周运动
 
@@ -592,9 +592,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN013nYae01tYCd8O2kIe_!!6000000005913-1-tps-780-361.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/06-oval/](https://gaohaoyang.github.io/canvas-practice/06-oval/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/06-oval/](https://Leftnerd.github.io/canvas-practice/06-oval/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/06-oval/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/06-oval/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/06-oval/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/06-oval/index.ts)
 
 # 勾股定理
 
@@ -661,9 +661,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01HBNVRV1uLfP5z2vc2_!!6000000006021-1-tps-816-435.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/07-distance/](https://gaohaoyang.github.io/canvas-practice/07-distance/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/07-distance/](https://Leftnerd.github.io/canvas-practice/07-distance/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/07-distance/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/07-distance/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/07-distance/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/07-distance/index.ts)
 
 ## 鼠标指针与点之间的距离
 
@@ -723,9 +723,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01unMj5w1gd9uYTMne1_!!6000000004164-1-tps-816-435.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/08-mouse-distance/](https://gaohaoyang.github.io/canvas-practice/08-mouse-distance/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/08-mouse-distance/](https://Leftnerd.github.io/canvas-practice/08-mouse-distance/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/08-mouse-distance/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/08-mouse-distance/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/08-mouse-distance/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/08-mouse-distance/index.ts)
 
 # 总结
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 6 Texture 纹理"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -384,6 +384,6 @@ Textures 资源
 
 本节的 demo 和源码
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/11-textures/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/11-textures/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/11-textures)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/11-textures)

@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 11 Haunted House 恐怖鬼屋"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -17,7 +17,7 @@ author: HyG
 
 
 
-本节完成效果，在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/17-haunted-house/)
+本节完成效果，在线 [demo 链接](https://Leftnerd.github.io/threeJourney/17-haunted-house/)
 
 可扫码访问
 
@@ -25,7 +25,7 @@ author: HyG
 --- | ---
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01LLkkbc1dluhbtAtt4_!!6000000003777-2-tps-200-200.png) | ![](https://gw.alicdn.com/imgextra/i2/O1CN01p7NrBp1gsjRfaPGeE_!!6000000004198-2-tps-750-1334.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/17-haunted-house)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/17-haunted-house)
 
 开始之前先约定一下关于长度单位的问题。
 
@@ -555,13 +555,13 @@ grave.castShadow = true
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01sa8qk51pqkGuDulDx_!!6000000005412-1-tps-600-325.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/17-haunted-house/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/17-haunted-house/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01LLkkbc1dluhbtAtt4_!!6000000003777-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/17-haunted-house)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/17-haunted-house)
 
 # 小结
 

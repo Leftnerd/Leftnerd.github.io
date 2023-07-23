@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 15 Scroll based animation 基于页面滚动的动画"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -258,7 +258,7 @@ const material = new THREE.MeshToonMaterial({
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01Kv3xWT1kImpSDZI8n_!!6000000004661-0-tps-5-1.jpg)
 
-这里注意 `magFilter` 的使用，如果遗忘了复习 [Three.js 之 6 Texture 纹理](https://gaohaoyang.github.io/2022/05/23/three-textures/#minification-filter-%E7%BC%A9%E5%B0%8F%E6%BB%A4%E9%95%9C)。
+这里注意 `magFilter` 的使用，如果遗忘了复习 [Three.js 之 6 Texture 纹理](https://Leftnerd.github.io/2022/05/23/three-textures/#minification-filter-%E7%BC%A9%E5%B0%8F%E6%BB%A4%E9%95%9C)。
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01xfd2sR1WS2CktnMa1_!!6000000002786-2-tps-1132-590.png)
 
@@ -595,13 +595,13 @@ window.addEventListener('scroll', () => {
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN0144tW8Q1RXSp62fmG0_!!6000000002121-1-tps-1129-629.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/21-scrollBasedAnimation/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/21-scrollBasedAnimation/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01A0ngT81fL0ffWOPKk_!!6000000003989-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/21-scrollBasedAnimation)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/21-scrollBasedAnimation)
 
 # 移动端适配
 
@@ -930,13 +930,13 @@ const textureLoader = new THREE.TextureLoader(loadingManager)
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01RstdO31yGrn0yICzZ_!!6000000006552-1-tps-1129-629.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/21-scrollBasedAnimation/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/21-scrollBasedAnimation/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01A0ngT81fL0ffWOPKk_!!6000000003989-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/21-scrollBasedAnimation)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/21-scrollBasedAnimation)
 
 # 小结
 

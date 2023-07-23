@@ -3,7 +3,7 @@ layout: post
 title:  "vscode 插件 markdown-schedule-snippet"
 categories: JavaScript
 tags: 效率 vscode markdown
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -52,7 +52,7 @@ week
 
 可以看到每次写这些星期几的缩略都很麻烦，于是开发了一个简单的 vscode 插件 markdown-schedule-snippet，正是本文的标题，输入 `we` 自动生成如下代码
 
-插件地址 [https://marketplace.visualstudio.com/items?itemName=HyG.schedule](https://marketplace.visualstudio.com/items?itemName=HyG.schedule)
+插件地址 [https://marketplace.visualstudio.com/items?itemName=Leftnerd.schedule](https://marketplace.visualstudio.com/items?itemName=Leftnerd.schedule)
 
 ``` markdown
 
@@ -77,7 +77,7 @@ week
 
 ![](https://user-gold-cdn.xitu.io/2018/10/10/1665d564192bc6bb?w=256&h=256&f=png&s=51734)
 
-这个插件仓库地址 [https://github.com/Gaohaoyang/markdown-schedule-snippet](https://github.com/Gaohaoyang/markdown-schedule-snippet)
+这个插件仓库地址 [https://github.com/Leftnerd/markdown-schedule-snippet](https://github.com/Leftnerd/markdown-schedule-snippet)
 
 欢迎大家使用，同时也欢迎小伙伴们为这个仓库贡献一些其他有趣的 markdown snippet，欢迎你的 pr。
 

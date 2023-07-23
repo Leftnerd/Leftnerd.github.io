@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 3 画布与全屏"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -98,9 +98,9 @@ window.addEventListener('resize', () => {
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01M3QBa41mTRG2mLEwa_!!6000000004955-1-tps-924-667.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney08-fullscreenAndResizing/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney08-fullscreenAndResizing/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src08-fullscreenAndResizing)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src08-fullscreenAndResizing)
 
 # pixel ratio 像素比
 
@@ -130,9 +130,9 @@ window.addEventListener('resize', () => {
 })
 ```
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney08-fullscreenAndResizing/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney08-fullscreenAndResizing/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src08-fullscreenAndResizing)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src08-fullscreenAndResizing)
 
 # 全屏
 
@@ -171,9 +171,9 @@ window.addEventListener('dblclick', () => {
 
 完整代码和 demo 如下
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney08-fullscreenAndResizing/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney08-fullscreenAndResizing/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src08-fullscreenAndResizing)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src08-fullscreenAndResizing)
 
 # 小结
 

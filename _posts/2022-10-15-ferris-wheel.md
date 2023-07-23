@@ -3,7 +3,7 @@ layout: post
 title:  "摩天轮动画的实现揭秘"
 categories: JavaScript
 tags:  Animation
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -159,9 +159,9 @@ transform-origin: top center;
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01g3TIqr1SEySyIIqeC_!!6000000002216-2-tps-200-200.png)
 
-在线 [demo 链接](https://gaohaoyang.github.io/demos/#/FerrisWheel)
+在线 [demo 链接](https://Leftnerd.github.io/demos/#/FerrisWheel)
 
-[demo 源码](https://github.com/Gaohaoyang/demos/tree/main/src/FerrisWheel)
+[demo 源码](https://github.com/Leftnerd/demos/tree/main/src/FerrisWheel)
 
 最后附一张生产环境的引用截图，很不错吧~
 

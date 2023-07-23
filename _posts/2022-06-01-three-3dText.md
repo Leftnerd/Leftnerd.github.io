@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 8 炫酷的 3D Text"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -295,9 +295,9 @@ tick()
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN013zENey1TXa95mkCWj_!!6000000002392-2-tps-200-200.png)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/13-3DText/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/13-3DText/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/13-3DText)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/13-3DText)
 
 # 小结
 

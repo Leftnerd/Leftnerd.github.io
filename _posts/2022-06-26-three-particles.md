@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 12 Particles 粒子效果"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -73,13 +73,13 @@ scene.add(particles)
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01jsLVCA1rAjANG3ca5_!!6000000005591-1-tps-927-350.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/18-particles/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/18-particles/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01mhQqxe1rbkXDnNDzF_!!6000000005650-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/18-particles)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/18-particles)
 
 完整代码如下
 
@@ -351,13 +351,13 @@ pointMaterial.vertexColors = true
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01E6N18h1lxNXmEMiLv_!!6000000004885-2-tps-1136-537.png)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/18-particlesCustomGeometry/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/18-particlesCustomGeometry/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN010d5WtS1KE2iG93vj6_!!6000000001131-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/18-particlesCustomGeometry)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/18-particlesCustomGeometry)
 
 # Animate 动画
 
@@ -468,13 +468,13 @@ tick()
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01HtxK0Q20VdnO7RxRN_!!6000000006855-1-tps-520-225.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/18-particlesAnimation/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/18-particlesAnimation/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01MrC0kE1BvFXQl1KNZ_!!6000000000007-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/18-particlesAnimation)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/18-particlesAnimation)
 
 看似很完美，但是应该尽量避免使用这个技术，因为非常占用性能。我们在每帧设置计算了所有粒子的位置，数量少时性能还可以，但是粒子数量变大后，会非常占用计算机的性能。更好的解法是使用自定义 shader 的方案，我们后续会进行详细学习。
 

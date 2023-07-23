@@ -3,7 +3,7 @@ layout: post
 title:  "队列在前端弹窗中的应用"
 categories: JavaScript
 tags: dialog queue
-author: HyG
+author: Leftnerd
 ---
 
 * content

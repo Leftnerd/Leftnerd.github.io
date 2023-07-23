@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 17 Import Model 导入模型"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -420,13 +420,13 @@ gltfLoader.load(
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01ICudIQ1cw9xRo88Xj_!!6000000003664-1-tps-716-299.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/23-importModels/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/23-importModels/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN0186MCQf1PgVPiAE08x_!!6000000001870-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/23-importModels)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/23-importModels)
 
 ### 什么时候选择使用 Draco 压缩模型？
 
@@ -655,13 +655,13 @@ const tick = () => {
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01GdP6QR1g2yhbflAfX_!!6000000004085-1-tps-816-397.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/23-importModelsAnimation/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/23-importModelsAnimation/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01J1lx7p1NERv65tDjx_!!6000000001538-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/23-importModelsAnimation)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/23-importModelsAnimation)
 
 # Three.js Editor
 

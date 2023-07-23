@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 18 使用 Blender 设计和导出模型"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -362,9 +362,9 @@ File > Export > glTF 2.0 (.glb/.gltf)
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01Byp1xO1Bx5887ToQR_!!6000000000011-2-tps-1256-680.png)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/24-customModelsWithBlender/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/24-customModelsWithBlender/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/24-customModelsWithBlender)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/24-customModelsWithBlender)
 
 看起来颜色和 Blender 里渲染的不太一样，我们下一节会详细讲讲如何做到真实渲染。
 # 小结

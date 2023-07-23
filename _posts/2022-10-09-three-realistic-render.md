@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 19 realistic render 真实渲染"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -362,9 +362,9 @@ no shadow | shadow
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01Ww0nWf1vntWNoZwVf_!!6000000006218-2-tps-2250-1949.png)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/25-realisticRender/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/25-realisticRender/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/25-realisticRender)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/25-realisticRender)
 
 # 汉堡模型
 
@@ -395,9 +395,9 @@ directionLight.shadow.normalBias = 0.05
 
 <img src="https://gw.alicdn.com/imgextra/i4/O1CN01P3VIFK1hpMAIHdT9h_!!6000000004326-2-tps-1125-2436.png" width="400px" />
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/25-realisticRenderBurger/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/25-realisticRenderBurger/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/25-realisticRenderBurger)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/25-realisticRenderBurger)
 
 与上一节的汉堡对比，就会发现之前的很丑毫无胃口，哈哈哈
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 13 Galaxy 银河效果生成器"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -364,13 +364,13 @@ alpha - 介于0到1的数字。
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01e4GDed1v8DSaHo3dL_!!6000000006127-1-tps-510-267.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/19-galaxy-generator/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/19-galaxy-generator/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01JQkgp71O6x2pyqpxB_!!6000000001657-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/19-galaxy-generator)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/19-galaxy-generator)
 
 # 小结
 

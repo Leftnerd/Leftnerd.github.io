@@ -3,7 +3,7 @@ layout: post
 title:  "canvas 绘图技术与图片处理"
 categories: JavaScript
 tags: 动画 Canvas 绘图 图片
-author: HyG
+author: Leftnerd
 mathjax: true
 ---
 
@@ -96,9 +96,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01Z3BgUp1dKtGTH8pIA_!!6000000003718-1-tps-789-380.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/09-mouse-draw/](https://gaohaoyang.github.io/canvas-practice/09-mouse-draw/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/09-mouse-draw/](https://Leftnerd.github.io/canvas-practice/09-mouse-draw/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/09-mouse-draw/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/09-mouse-draw/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/09-mouse-draw/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/09-mouse-draw/index.ts)
 
 ## 绘制曲线
 
@@ -145,9 +145,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN014ZVi8S1iP4xncnamu_!!6000000004404-1-tps-789-380.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/10-quadratic/](https://gaohaoyang.github.io/canvas-practice/10-quadratic/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/10-quadratic/](https://Leftnerd.github.io/canvas-practice/10-quadratic/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/10-quadratic/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/10-quadratic/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/10-quadratic/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/10-quadratic/index.ts)
 
 ### 穿过控制点的二次贝塞尔曲线
 
@@ -192,9 +192,9 @@ const cpy = y * 2 - (y0 + y1) / 2
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN0141W6VM1dv4YGBPGuG_!!6000000003797-1-tps-789-380.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/11-quadratic-through/](https://gaohaoyang.github.io/canvas-practice/11-quadratic-through/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/11-quadratic-through/](https://Leftnerd.github.io/canvas-practice/11-quadratic-through/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/11-quadratic-through/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/11-quadratic-through/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/11-quadratic-through/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/11-quadratic-through/index.ts)
 
 ### 多条曲线
 
@@ -245,9 +245,9 @@ xAv, yAv 围边设置为循环中当前点和后续点的x,y坐标的平均值�
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01IMWRyw1RDliYwzPpA_!!6000000002078-1-tps-789-380.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/12-multi-quadratic/](https://gaohaoyang.github.io/canvas-practice/12-multi-quadratic/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/12-multi-quadratic/](https://Leftnerd.github.io/canvas-practice/12-multi-quadratic/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/12-multi-quadratic/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/12-multi-quadratic/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/12-multi-quadratic/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/12-multi-quadratic/index.ts)
 
 ### 闭合的多条曲线
 
@@ -295,9 +295,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01sXkKam1UQ5DPHL8Kf_!!6000000002511-1-tps-789-380.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/13-multi-quadratic-close/](https://gaohaoyang.github.io/canvas-practice/13-multi-quadratic-close/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/13-multi-quadratic-close/](https://Leftnerd.github.io/canvas-practice/13-multi-quadratic-close/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/13-multi-quadratic-close/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/13-multi-quadratic-close/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/13-multi-quadratic-close/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/13-multi-quadratic-close/index.ts)
 
 ## 图形与填充色
 
@@ -357,9 +357,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN013amNZU1d9tlIvGgim_!!6000000003694-2-tps-1588-788.png)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/14-gradient/](https://gaohaoyang.github.io/canvas-practice/14-gradient/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/14-gradient/](https://Leftnerd.github.io/canvas-practice/14-gradient/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/14-gradient/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/14-gradient/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/14-gradient/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/14-gradient/index.ts)
 
 # 图片加载
 
@@ -386,9 +386,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01l8iuWx1dCBk4FiWnp_!!6000000003699-2-tps-1624-826.png)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/15-image/](https://gaohaoyang.github.io/canvas-practice/15-image/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/15-image/](https://Leftnerd.github.io/canvas-practice/15-image/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/15-image/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/15-image/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/15-image/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/15-image/index.ts)
 
 ## 操作像素
 
@@ -420,9 +420,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01xBiumq1CvXKhyFYn9_!!6000000000143-2-tps-800-400.png)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/16-image-pixel/](https://gaohaoyang.github.io/canvas-practice/16-image-pixel/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/16-image-pixel/](https://Leftnerd.github.io/canvas-practice/16-image-pixel/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/16-image-pixel/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/16-image-pixel/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/16-image-pixel/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/16-image-pixel/index.ts)
 
 # 总结
 

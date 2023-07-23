@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 1 Animation 动画"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -308,9 +308,9 @@ tick()
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01c9NKzu1a354heHmTI_!!6000000003273-1-tps-774-559.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/06-animation/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/06-animation/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/06-animation)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/06-animation)
 
 # 小结
 

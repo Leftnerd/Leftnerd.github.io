@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 2 Camera 相机"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -335,9 +335,9 @@ controls.enableDamping = true
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN012ZXoZ31bYyGoroKdJ_!!6000000003478-1-tps-774-559.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/07-camera/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/07-camera/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/07-camera)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/07-camera)
 
 # 小结
 

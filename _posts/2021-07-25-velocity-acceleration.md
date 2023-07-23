@@ -3,7 +3,7 @@ layout: post
 title:  "canvas动画之速度与加速度"
 categories: JavaScript
 tags: 动画 Canvas 速度
-author: HyG
+author: Leftnerd
 mathjax: true
 ---
 
@@ -88,9 +88,9 @@ ball.y = vy * timeInSeconds + y0
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01MpcTv41Ul9QwSjb1d_!!6000000002557-1-tps-386-416.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/17-uniform-linear-motion/](https://gaohaoyang.github.io/canvas-practice/17-uniform-linear-motion/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/17-uniform-linear-motion/](https://Leftnerd.github.io/canvas-practice/17-uniform-linear-motion/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/17-uniform-linear-motion/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/17-uniform-linear-motion/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/17-uniform-linear-motion/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/17-uniform-linear-motion/index.ts)
 
 ### 基于速度向量的运动
 
@@ -144,9 +144,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01OP2dne1CPw06KjJUq_!!6000000000074-1-tps-386-416.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/18-uniform-linear-motion2/](https://gaohaoyang.github.io/canvas-practice/18-uniform-linear-motion2/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/18-uniform-linear-motion2/](https://Leftnerd.github.io/canvas-practice/18-uniform-linear-motion2/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/18-uniform-linear-motion2/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/18-uniform-linear-motion2/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/18-uniform-linear-motion2/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/18-uniform-linear-motion2/index.ts)
 
 注意这里的 `timeInSeconds` 是一个连续的时间，在 canvas 绘图中可能会经常使用每一帧的时间片段来进行计算，接下来讲到。
 
@@ -202,9 +202,9 @@ ball.x += v * Math.cos((alpha * Math.PI) / 180) * deltaTime
 ball.y += v * Math.sin((alpha * Math.PI) / 180) * deltaTime
 ```
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/19-uniform-linear-frame-time/](https://gaohaoyang.github.io/canvas-practice/19-uniform-linear-frame-time/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/19-uniform-linear-frame-time/](https://Leftnerd.github.io/canvas-practice/19-uniform-linear-frame-time/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/19-uniform-linear-frame-time/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/19-uniform-linear-frame-time/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/19-uniform-linear-frame-time/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/19-uniform-linear-frame-time/index.ts)
 
 ## 移动到点击位置
 
@@ -274,9 +274,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01gJ80VJ1rJQckivf2K_!!6000000005610-1-tps-386-416.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/20-arrow-to-tap/](https://gaohaoyang.github.io/canvas-practice/20-arrow-to-tap/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/20-arrow-to-tap/](https://Leftnerd.github.io/canvas-practice/20-arrow-to-tap/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/20-arrow-to-tap/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/20-arrow-to-tap/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/20-arrow-to-tap/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/20-arrow-to-tap/index.ts)
 
 ## 总是跟随鼠标的箭头
 
@@ -332,9 +332,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01N54hn51LLeqZXexj4_!!6000000001283-1-tps-637-482.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/21-arrow-to-mouse-move/](https://gaohaoyang.github.io/canvas-practice/21-arrow-to-mouse-move/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/21-arrow-to-mouse-move/](https://Leftnerd.github.io/canvas-practice/21-arrow-to-mouse-move/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/21-arrow-to-mouse-move/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/21-arrow-to-mouse-move/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/21-arrow-to-mouse-move/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/21-arrow-to-mouse-move/index.ts)
 
 # 加速度
 
@@ -397,9 +397,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01XzDaWR1iPXMkVGGS8_!!6000000004405-1-tps-655-482.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/22-accelerate/](https://gaohaoyang.github.io/canvas-practice/22-accelerate/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/22-accelerate/](https://Leftnerd.github.io/canvas-practice/22-accelerate/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/22-accelerate/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/22-accelerate/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/22-accelerate/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/22-accelerate/index.ts)
 
 ## 基于每帧间隔时间的加速运动
 
@@ -458,9 +458,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01zoFULK1Umz1Dcu23D_!!6000000002561-1-tps-655-482.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/23-accelerate-time/](https://gaohaoyang.github.io/canvas-practice/23-accelerate-time/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/23-accelerate-time/](https://Leftnerd.github.io/canvas-practice/23-accelerate-time/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/23-accelerate-time/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/23-accelerate-time/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/23-accelerate-time/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/23-accelerate-time/index.ts)
 
 ## 使用方向键控制小球加速
 
@@ -541,9 +541,9 @@ if (canvas) {
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01RaTyZG1dYd9JEIiDS_!!6000000003748-1-tps-655-482.gif)
 
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/24-ctrl-ball-accelerate/](https://gaohaoyang.github.io/canvas-practice/24-ctrl-ball-accelerate/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/24-ctrl-ball-accelerate/](https://Leftnerd.github.io/canvas-practice/24-ctrl-ball-accelerate/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/24-ctrl-ball-accelerate/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/24-ctrl-ball-accelerate/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/24-ctrl-ball-accelerate/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/24-ctrl-ball-accelerate/index.ts)
 
 ### 添加重力加速度
 
@@ -559,9 +559,9 @@ vy += gravity * deltaTime
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01LnDwrw1Wn6LsQ02gV_!!6000000002832-1-tps-655-482.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/25-ctrl-ball-accelerate-gravity/](https://gaohaoyang.github.io/canvas-practice/25-ctrl-ball-accelerate-gravity/)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/25-ctrl-ball-accelerate-gravity/](https://Leftnerd.github.io/canvas-practice/25-ctrl-ball-accelerate-gravity/)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/25-ctrl-ball-accelerate-gravity/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/25-ctrl-ball-accelerate-gravity/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/25-ctrl-ball-accelerate-gravity/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/25-ctrl-ball-accelerate-gravity/index.ts)
 
 ## 宇宙飞船
 
@@ -737,9 +737,9 @@ if (canvas) {
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01ykyUOq1ESniMhv3OO_!!6000000000351-1-tps-655-482.gif)
 
-demo 链接 [https://gaohaoyang.github.io/canvas-practice/26-space-ship/index.html](https://gaohaoyang.github.io/canvas-practice/26-space-ship/index.html)
+demo 链接 [https://Leftnerd.github.io/canvas-practice/26-space-ship/index.html](https://Leftnerd.github.io/canvas-practice/26-space-ship/index.html)
 
-源码链接 [https://github.com/Gaohaoyang/canvas-practice/blob/main/src/26-space-ship/index.ts](https://github.com/Gaohaoyang/canvas-practice/blob/main/src/26-space-ship/index.ts)
+源码链接 [https://github.com/Leftnerd/canvas-practice/blob/main/src/26-space-ship/index.ts](https://github.com/Leftnerd/canvas-practice/blob/main/src/26-space-ship/index.ts)
 
 可以看到代码中先监听了键盘事件，将旋转角加速度常量值赋给真正飞船的旋转角加速度。然后根据角加速度算出飞船每帧的旋转角度
 

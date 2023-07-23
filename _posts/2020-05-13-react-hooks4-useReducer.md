@@ -3,7 +3,7 @@ layout: post
 title:  "React Hooks 系列之4 useReducer"
 categories: JavaScript
 tags: React hooks
-author: HyG
+author: Leftnerd
 ---
 
 * content

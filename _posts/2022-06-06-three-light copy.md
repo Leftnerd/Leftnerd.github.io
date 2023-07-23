@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 9 Light 光"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -197,13 +197,13 @@ scene.add(directionalLight)
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01P8yquT1XFxNANPibM_!!6000000002895-2-tps-1132-408.png)
 
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/15-lights/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/15-lights/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01e57rdB26UAD3byA7j_!!6000000007664-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/15-lights)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/15-lights)
 
 可以看到光来自右侧。
 
@@ -222,13 +222,13 @@ scene.add(hemisphereLight)
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01zJl8gV1F6BqD1NogD_!!6000000000437-1-tps-1008-464.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/15-lights/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/15-lights/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01e57rdB26UAD3byA7j_!!6000000007664-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/15-lights)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/15-lights)
 
 # PointLight 点光源
 
@@ -292,13 +292,13 @@ scene.add(rectAreaLight)
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01TM012g1spJsuEe4zZ_!!6000000005815-1-tps-1124-616.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/15-lights/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/15-lights/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01e57rdB26UAD3byA7j_!!6000000007664-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/15-lights)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/15-lights)
 
 # SpotLight 聚光灯
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 7 Materials 材质"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -581,9 +581,9 @@ material.transparent = true
 
 demo 和源码
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/12-materials/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/12-materials/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/12-materials)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/12-materials)
 
 
 # MeshPhysicalMaterial 物理网格材质
@@ -635,9 +635,9 @@ material.envMap = envMapTexture
 
 demo 和源码
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/12-materialsEnvironmentMap/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/12-materialsEnvironmentMap/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/12-materialsEnvironmentMap)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/12-materialsEnvironmentMap)
 
 ## 在哪寻找环境贴图
 

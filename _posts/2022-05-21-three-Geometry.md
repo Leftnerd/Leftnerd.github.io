@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 4 Geometry 几何体"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -102,9 +102,9 @@ tick()
 
 完整代码和 demo 如下
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/09-geometry/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/09-geometry/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/09-geometry)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/09-geometry)
 
 ## 随机三角形
 
@@ -135,9 +135,9 @@ scene.add(triangle)
 
 完整代码和 demo 如下
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/09-geometry2/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/09-geometry2/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/09-geometry2)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/09-geometry2)
 
 # 小结
 

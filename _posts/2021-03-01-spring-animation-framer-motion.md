@@ -3,7 +3,7 @@ layout: post
 title:  "前端弹性动画与 framer-motion 动画库初探"
 categories: JavaScript
 tags: 动画
-author: HyG
+author: Leftnerd
 mathjax: true
 ---
 
@@ -187,7 +187,7 @@ $$
     <video src="https://g.alicdn.com/ltao-fe/assets/damping.mp4" autoplay controls preload loop muted width="300px"></video>
   </td>
   <td>
-    <a href="https://gaohaoyang.github.io/framer-motion-practice/#/Spring">点击或扫码体验</a> <br />
+    <a href="https://Leftnerd.github.io/framer-motion-practice/#/Spring">点击或扫码体验</a> <br />
     <img src="https://gw.alicdn.com/imgextra/i2/O1CN011yInSb1UIIRunzpdL_!!6000000002494-2-tps-200-200.png"/>
   </td>
 </tr>
@@ -320,7 +320,7 @@ function index() {
 export default index
 ```
 
-demo 页面链接 [https://gaohaoyang.github.io/framer-motion-practice/#/Spring](https://gaohaoyang.github.io/framer-motion-practice/#/Spring)
+demo 页面链接 [https://Leftnerd.github.io/framer-motion-practice/#/Spring](https://Leftnerd.github.io/framer-motion-practice/#/Spring)
 
 可以看到代码确实非常简洁。本质上代码分为两部分：
 - motion 为前缀的 HTML 或 SVG 标签结合在一起创建的基础组件
@@ -399,7 +399,7 @@ export default index
     <video src="https://g.alicdn.com/ltao-fe/assets/fadeInOut.mp4" autoplay controls preload loop muted width="300px"></video>
   </td>
   <td>
-    <a href="https://gaohaoyang.github.io/framer-motion-practice/#/FadeInOut">点击或扫码体验</a> <br />
+    <a href="https://Leftnerd.github.io/framer-motion-practice/#/FadeInOut">点击或扫码体验</a> <br />
     <img src="https://gw.alicdn.com/imgextra/i1/O1CN01zm3ZKY1x4D7uLkixa_!!6000000006389-2-tps-200-200.png"/>
   </td>
 </tr>
@@ -462,7 +462,7 @@ export default index
     <video src="https://g.alicdn.com/ltao-fe/assets/drag.mp4" autoplay controls preload loop muted width="300px"></video>
   </td>
   <td>
-    <a href="https://gaohaoyang.github.io/framer-motion-practice/#/DragBall">点击或扫码体验</a> <br />
+    <a href="https://Leftnerd.github.io/framer-motion-practice/#/DragBall">点击或扫码体验</a> <br />
     <img src="https://gw.alicdn.com/imgextra/i3/O1CN01WRs9RF1MjIsVUyAcm_!!6000000001470-2-tps-200-200.png"/>
   </td>
 </tr>
@@ -476,13 +476,13 @@ export default index
 transform: translate3d(128px, 228px, 0px);
 ```
 
-其他更多 demo 请访问 [https://gaohaoyang.github.io/framer-motion-practice/](https://gaohaoyang.github.io/framer-motion-practice/)
+其他更多 demo 请访问 [https://Leftnerd.github.io/framer-motion-practice/](https://Leftnerd.github.io/framer-motion-practice/)
 
 或扫码：
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01i01FKn1XJcRQhnuKc_!!6000000002903-2-tps-200-200.png)
 
-demo 的 git 地址：[https://github.com/Gaohaoyang/framer-motion-practice](https://github.com/Gaohaoyang/framer-motion-practice)
+demo 的 git 地址：[https://github.com/Leftnerd/framer-motion-practice](https://github.com/Leftnerd/framer-motion-practice)
 
 ### framer-motion 主要 api
 

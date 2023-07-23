@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 16 Physics 物理引擎"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -313,13 +313,13 @@ floorBody.material = defaultMaterial
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01cUFA5x1U8gEpCxQww_!!6000000002473-1-tps-1129-595.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/22-physics/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/22-physics/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01e7WHXK1ExUKE6Tcaw_!!6000000000418-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/22-physics)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/22-physics)
 
 # Cannon-es
 
@@ -369,13 +369,13 @@ gui.add(guiObj, 'CannonDebugger').name('CannonDebugger mesh visible').onChange((
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01ZElB441biabW85Nme_!!6000000003499-1-tps-1129-595.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/22-physics-cannon-es/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/22-physics-cannon-es/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01vbsfp11L4Fs1UYhIy_!!6000000001245-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/22-physics-cannon-es)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/22-physics-cannon-es)
 
 # 施加外力 Apply Forces
 
@@ -539,13 +539,13 @@ const tick = () => {
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN01OosA481x3IRHsU9XS_!!6000000006387-1-tps-1129-518.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/22-physics-multi/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/22-physics-multi/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01qK8IGV1Xq8fZ7wU10_!!6000000002974-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/22-physics-multi)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/22-physics-multi)
 
 # 性能优化
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Three.js 之 14 Raycaster 光线投射"
 categories: Three.js
 tags:  Three.js WebGL
-author: HyG
+author: Leftnerd
 ---
 
 * content
@@ -180,13 +180,13 @@ tick()
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN011DDy2n1ibRjJr7abI_!!6000000004431-1-tps-349-311.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/20-raycaster/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/20-raycaster/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i1/O1CN016BK6t21Ea87dIN4Ud_!!6000000000367-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/20-raycaster)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/20-raycaster)
 
 # 使用鼠标光线投射
 
@@ -327,13 +327,13 @@ tick()
 
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01aaF9aN1ccSv6XtnaY_!!6000000003621-1-tps-224-480.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/20-raycaster-mouse/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/20-raycaster-mouse/)
 
 可扫码访问
 
 ![](https://gw.alicdn.com/imgextra/i3/O1CN01kfoFGZ27nEJpkpTse_!!6000000007841-2-tps-200-200.png)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/20-raycaster-mouse)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/20-raycaster-mouse)
 
 ## mouse enter and leave
 
@@ -449,9 +449,9 @@ window.addEventListener('click', (event) => {
 
 ![](https://gw.alicdn.com/imgextra/i2/O1CN01dWHRy91ndnqf2ER9w_!!6000000005113-1-tps-978-422.gif)
 
-在线 [demo 链接](https://gaohaoyang.github.io/threeJourney/20-raycaster-mouse2/)
+在线 [demo 链接](https://Leftnerd.github.io/threeJourney/20-raycaster-mouse2/)
 
-[demo 源码](https://github.com/Gaohaoyang/threeJourney/tree/main/src/20-raycaster-mouse2)
+[demo 源码](https://github.com/Leftnerd/threeJourney/tree/main/src/20-raycaster-mouse2)
 
 掌握了这个技能之后，再开发鼠标类事件相关的操作就非常容易了
 
